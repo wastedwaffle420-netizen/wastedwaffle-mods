@@ -31,10 +31,10 @@ broken.
 | [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice · icons on [MEGA](https://mega.nz/file/CxIm2YDL#imqeiXJUqNF5764LpjDumiXZM6KB0XBdafN1LEOggpc) |
 | [Atsu — Yone: Spider Lily + Fundoshi](04-atsu) | both lines, voiced + silent + silent-animated |
 | [Chen Lu — Butterfly Lovers — Zeri](05-chenlu) | skin through v3.2, voice through v4 |
-| [Hornet Silkbutt — Kai'Sa](06-kaisa) | skin + Spicy variant, voice v2 ◆ voice v1 · icons on [MEGA](https://mega.nz/file/XsYFzQSA#OGTK_KGFCLmHzoBFZEemNnvsa-liBeOOm7_--CNOWgo) |
+| [Hornet Silkbutt — Kai'Sa](06-kaisa) | skin + Spicy variant, voice v2 · voice v1 on [MEGA](https://mega.nz/file/b8QFDYTI#x5xjrs0GwlkLhSDZNNd0gTTqxrP46StnxkrdtB2uNMo) · icons on [MEGA](https://mega.nz/file/XsYFzQSA#OGTK_KGFCLmHzoBFZEemNnvsa-liBeOOm7_--CNOWgo) |
 | [Hornet — Crimson Silk — Kha'Zix](07-khazix) | skin v0.4, voice v1 + v2 (VO + SFX) |
 | [Abyssal Bel'Veth + Slaanesh Voice](08-belveth) | skin, voice v7 / v7b / v8 / v8b · icons on [MEGA](https://mega.nz/file/KkpRwYgI#MDLcRp5-AVKdKs9R66pAUxiZPNhAzYCaepp-Xr4aaE8) |
-| [Hollow Knight Silksong — Kindred](09-kindred) | skins · icons on [MEGA](https://mega.nz/file/b8QFDYTI#x5xjrs0GwlkLhSDZNNd0gTTqxrP46StnxkrdtB2uNMo) |
+| [Hollow Knight Silksong — Kindred](09-kindred) | skins ◆ icons |
 | [Ranni — Gwen](10-ranni) | skin + voice (separate RuneForge posts, together here) |
 | [2B Retexture — Gwen](11-gwen2b) | skin |
 | [Ash Lynx — Locke](12-locke) | skin |
