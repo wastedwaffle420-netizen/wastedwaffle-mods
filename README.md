@@ -28,7 +28,7 @@ broken.
 |---|---|
 | [Nightgown and Peaches — Yunara](01-yunara) | skin, voice v1–v4 + variants, SFX, 8 icons |
 | [Peach Under Eden / Songbird — LeBlanc](02-songbird) | skins incl. Blackwall Gala + Fall, Suspended · voice on [MEGA](https://mega.nz/file/mpglyRiK#xYPxDceUEVrOzoX1iVbRa1tDF9s8Z2uYEQfbMVYRPMI) · icons come with the skin |
-| [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice ◆ icons |
+| [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice · icons on [MEGA](https://mega.nz/file/CxIm2YDL#imqeiXJUqNF5764LpjDumiXZM6KB0XBdafN1LEOggpc) |
 | [Atsu — Yone: Spider Lily + Fundoshi](04-atsu) | both lines, voiced + silent + silent-animated |
 | [Chen Lu — Butterfly Lovers — Zeri](05-chenlu) | skin through v3.2, voice through v4 |
 | [Hornet Silkbutt — Kai'Sa](06-kaisa) | skin + Spicy variant, voice v2 ◆ voice v1 · icons on [MEGA](https://mega.nz/file/XsYFzQSA#OGTK_KGFCLmHzoBFZEemNnvsa-liBeOOm7_--CNOWgo) |
