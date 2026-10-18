@@ -58,9 +58,9 @@ voice, where the Songbird release uses Song So Mi's.
 
 - Dress: [Fall-Suspended-v1.0.13.fantome](jasmine-fall-suspended/Fall-Suspended-v1.0.13.fantome)
   in the `jasmine-fall-suspended` folder.
-- Voice: [leblanc-jasmine-voice-v5.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v5.fantome)
+- Voice: [leblanc-jasmine-voice-v5-final.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v5-final.fantome)
   in the `jasmine-fall-suspended` folder — Jasmine voice pack v5, across
   base / skin12 / skin20. Current build: the core set is voiced (kills,
-  taunts, movement, abilities, joke, laugh); champion-interaction lines
-  are removed (silent), and the remaining rare lines are silent until
-  the completion pass lands.
+  taunts, movement, abilities, joke, laugh, first move); champion-
+  interaction lines are removed (silent), and the remaining lines are
+  silent until the completion pass lands.
