@@ -28,6 +28,7 @@ broken.
 |---|---|
 | [Nightgown and Peaches — Yunara](01-yunara) | skin, voice v1–v4 + variants, SFX, 8 icons |
 | [Peach Under Eden / Songbird — LeBlanc](02-songbird) | skins incl. Blackwall Gala + Fall, Suspended · voice on [MEGA](https://mega.nz/file/mpglyRiK#xYPxDceUEVrOzoX1iVbRa1tDF9s8Z2uYEQfbMVYRPMI) · icons come with the skin |
+| [Jasmine — Fall, Suspended — LeBlanc](jasmine-fall-suspended) | dress v1.0.13 · Jasmine voice v4 ◆ (see the release section below) |
 | [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice · icons on [MEGA](https://mega.nz/file/CxIm2YDL#imqeiXJUqNF5764LpjDumiXZM6KB0XBdafN1LEOggpc) |
 | [Atsu — Yone: Spider Lily + Fundoshi](04-atsu) | both lines, voiced + silent + silent-animated |
 | [Chen Lu — Butterfly Lovers — Zeri](05-chenlu) | skin through v3.2, voice through v4 |
@@ -48,3 +49,16 @@ broken.
 
 ◆ = hosted in the MEGA archive (GitHub file-size limits), linked from the
 mod's Patreon post.
+
+## Jasmine — Fall, Suspended (separate release)
+
+A separate LeBlanc release from the Songbird line above — not a variant of
+it. The Fall, Suspended dress paired with its own voice pack: Jasmine's
+voice, where the Songbird release uses Song So Mi's.
+
+- Dress: [Fall-Suspended-v1.0.13.fantome](jasmine-fall-suspended/Fall-Suspended-v1.0.13.fantome)
+  in the `jasmine-fall-suspended` folder.
+- Voice: ◆ `leblanc-jasmine-voice-v4.fantome` — Jasmine voice pack v4, all
+  VO slots across base / skin12 / skin20. At 74.6 MB it is too large for
+  GitHub, so it lives in the MEGA archive; the link will be added here and
+  to the Patreon post. (Link to follow.)
