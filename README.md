@@ -28,7 +28,7 @@ broken.
 |---|---|
 | [Nightgown and Peaches — Yunara](01-yunara) | skin, voice v1–v4 + variants, SFX, 8 icons |
 | [Peach Under Eden / Songbird — LeBlanc](02-songbird) | skins incl. Blackwall Gala + Fall, Suspended · voice on [MEGA](https://mega.nz/file/mpglyRiK#xYPxDceUEVrOzoX1iVbRa1tDF9s8Z2uYEQfbMVYRPMI) · icons come with the skin |
-| [Jasmine — Fall, Suspended — LeBlanc](jasmine-fall-suspended) | dress v1.0.13 · Jasmine voice v5 (see the release section below) |
+| [Jasmine — Fall, Suspended — LeBlanc](jasmine-fall-suspended) | dress v1.0.13 · Jasmine voice v6 "Rosetta" (see the release section below) |
 | [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice · icons on [MEGA](https://mega.nz/file/CxIm2YDL#imqeiXJUqNF5764LpjDumiXZM6KB0XBdafN1LEOggpc) |
 | [Atsu — Yone: Spider Lily + Fundoshi](04-atsu) | both lines, voiced + silent + silent-animated |
 | [Chen Lu — Butterfly Lovers — Zeri](05-chenlu) | skin through v3.2, voice through v4 |
@@ -58,9 +58,11 @@ voice, where the Songbird release uses Song So Mi's.
 
 - Dress: [Fall-Suspended-v1.0.13.fantome](jasmine-fall-suspended/Fall-Suspended-v1.0.13.fantome)
   in the `jasmine-fall-suspended` folder.
-- Voice: [leblanc-jasmine-voice-v5-final.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v5-final.fantome)
-  in the `jasmine-fall-suspended` folder — Jasmine voice pack v5, across
-  base / skin12 / skin20. Current build: the core set is voiced (kills,
-  taunts, movement, abilities, joke, laugh, first move); champion-
-  interaction lines are removed (silent), and the remaining lines are
-  silent until the completion pass lands.
+- Voice (current): [leblanc-jasmine-voice-v6-rosetta.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v6-rosetta.fantome)
+  in the `jasmine-fall-suspended` folder — Jasmine voice pack v6
+  "Rosetta", across base / skin12 / skin20. Every one of the 483 voice
+  lines is voiced, 1:1, from her own archive recordings — no synthesis,
+  no silence, nothing directed at champions; the taunt slots carry her
+  own teasing lines instead. Previous build:
+  [leblanc-jasmine-voice-v5-final.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v5-final.fantome)
+  (v5, synthesized; core set voiced, champion-interaction lines silent).
