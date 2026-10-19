@@ -44,7 +44,7 @@ broken.
 | [Rosethorn — Zeri](15-rosethorn) | v0.1.0 + v0.2.0 |
 | [Slave Knight Gael — Yorick](16-gael) | skin |
 | [Slop Knight Gael — Yorick](slop-knight-gael-yorick) | skin |
-| [Slave Knight Gael — Hybrid — Yorick](slave-knight-gael-hybrid) | the original Gael + Slop icons, Pilgrim Butterfly Maiden and Hollow ghouls · settled build: v2.1.3-loose (v2.1.5-loose = filled-head polish variant) |
+| [Slave Knight Gael — Hybrid — Yorick](slave-knight-gael-hybrid) | the original Gael + Slop icons, Pilgrim Butterfly Maiden and Hollow ghouls · settled build: v2.1.3-loose (v2.1.5-loose = filled-head polish variant) · optional VO file: every game opener is Gael's own voice from DS3 — "Hand it over. That thing, your dark soul." |
 | [Cannibal — Neeko](17-neeko) | skin + voice |
 | [Lucine / Melusine — Shyvana](18-shyvana) | skin + voice |
 | [Chaos Marauder Project — Mordekaiser](19-mordekaiser) | skin v0.1.0 |
