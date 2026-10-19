@@ -60,19 +60,15 @@ voice, where the Songbird release uses Song So Mi's.
 
 - Dress: [Fall-Suspended-v1.0.13.fantome](jasmine-fall-suspended/Fall-Suspended-v1.0.13.fantome)
   in the `jasmine-fall-suspended` folder.
-- Voice (current): **leblanc-jasmine-voice-v4.1-official-laugh** — the
-  official voice. The v4 pack with one change: the laugh. All 20
-  laugh-group slots across base / skin12 / skin20 carry Jasmine's
-  official laugh (the stitched arc: pffft leak, nteeh~ monotone teeth
-  run, quietly-happy wheeze, nasal chuckle ending, shortened sarcasm
-  tail); every other slot is byte-identical to v4. The fantome is
-  79.7 MB, over the single-file limit, so it is stored in the
-  `jasmine-fall-suspended` folder as 8 parts
-  (`leblanc-jasmine-voice-v4.1-official-laugh.fantome.part_a` … `.part_h`).
-  To use it, download all 8 parts into one folder and join them:
-  Windows: `copy /b *.part_* leblanc-jasmine-voice-v4.1-official-laugh.fantome`
-  · Mac/Linux: `cat *.part_* > leblanc-jasmine-voice-v4.1-official-laugh.fantome`
-  (joined file MD5: `0acf99c0c5b388ae772b400ddd1a9070`).
+- Voice (current): [leblanc-jasmine-voice-v4.1-official-laugh.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v4.1-official-laugh.fantome)
+  in the `jasmine-fall-suspended` folder — the official voice. The v4
+  pack with one change: the laugh. All 20 laugh-group slots across
+  base / skin12 / skin20 carry Jasmine's official laugh (the stitched
+  arc: pffft leak, nteeh~ monotone teeth run, quietly-happy wheeze,
+  nasal chuckle ending, shortened sarcasm tail); every other slot is
+  byte-identical to v4. Single file, 39.9 MB (MD5:
+  `80a3e5062d31371c8a5dc033b11115b3`) — single-copy packaging, since
+  the game's WAD references only the plain wpk names.
   Previous builds:
   [leblanc-jasmine-voice-v6-rosetta.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v6-rosetta.fantome)
   (v6 "Rosetta", 483 lines voiced 1:1 from her archive recordings) ·
