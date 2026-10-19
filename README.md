@@ -48,6 +48,7 @@ broken.
 | [Cannibal — Neeko](17-neeko) | skin + voice |
 | [Lucine / Melusine — Shyvana](18-shyvana) | skin + voice |
 | [Chaos Marauder Project — Mordekaiser](19-mordekaiser) | skin v0.1.0 |
+| [Lucy Kushinada — Samira](lucy-kushinada-samira) | skin v0.1.0 (PsyOps base: model, loading screen, profile circle + square, icons, particles, animations) · voice v1.0.0 — all 162 lines replaced, Lucy on an op in Night City, written from scratch (no Samira lines) |
 
 ◆ = hosted in the MEGA archive (GitHub file-size limits), linked from the
 mod's Patreon post.
