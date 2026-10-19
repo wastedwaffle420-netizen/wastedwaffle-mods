@@ -28,7 +28,7 @@ broken.
 |---|---|
 | [Nightgown and Peaches — Yunara](01-yunara) | skin, voice v1–v4 + variants, SFX, 8 icons |
 | [Peach Under Eden / Songbird — LeBlanc](02-songbird) | skins incl. Blackwall Gala + Fall, Suspended · voice on [MEGA](https://mega.nz/file/mpglyRiK#xYPxDceUEVrOzoX1iVbRa1tDF9s8Z2uYEQfbMVYRPMI) · icons come with the skin |
-| [Jasmine — Fall, Suspended — LeBlanc](jasmine-fall-suspended) | dress v1.0.13 · Jasmine voice v6 "Rosetta" (see the release section below) |
+| [Jasmine — Fall, Suspended — LeBlanc](jasmine-fall-suspended) | dress v1.0.13 · Jasmine voice v4.1 "Official Laugh" (see the release section below) |
 | [Stinger Akali — Yoruichi](03-yoruichi) | skin, voice · icons on [MEGA](https://mega.nz/file/CxIm2YDL#imqeiXJUqNF5764LpjDumiXZM6KB0XBdafN1LEOggpc) |
 | [Atsu — Yone: Spider Lily + Fundoshi](04-atsu) | both lines, voiced + silent + silent-animated |
 | [Chen Lu — Butterfly Lovers — Zeri](05-chenlu) | skin through v3.2, voice through v4 |
@@ -60,11 +60,21 @@ voice, where the Songbird release uses Song So Mi's.
 
 - Dress: [Fall-Suspended-v1.0.13.fantome](jasmine-fall-suspended/Fall-Suspended-v1.0.13.fantome)
   in the `jasmine-fall-suspended` folder.
-- Voice (current): [leblanc-jasmine-voice-v6-rosetta.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v6-rosetta.fantome)
-  in the `jasmine-fall-suspended` folder — Jasmine voice pack v6
-  "Rosetta", across base / skin12 / skin20. Every one of the 483 voice
-  lines is voiced, 1:1, from her own archive recordings — no synthesis,
-  no silence, nothing directed at champions; the taunt slots carry her
-  own teasing lines instead. Previous build:
+- Voice (current): **leblanc-jasmine-voice-v4.1-official-laugh** — the
+  official voice. The v4 pack with one change: the laugh. All 20
+  laugh-group slots across base / skin12 / skin20 carry Jasmine's
+  official laugh (the stitched arc: pffft leak, nteeh~ monotone teeth
+  run, quietly-happy wheeze, nasal chuckle ending, shortened sarcasm
+  tail); every other slot is byte-identical to v4. The fantome is
+  79.7 MB, over the single-file limit, so it is stored in the
+  `jasmine-fall-suspended` folder as 8 parts
+  (`leblanc-jasmine-voice-v4.1-official-laugh.fantome.part_a` … `.part_h`).
+  To use it, download all 8 parts into one folder and join them:
+  Windows: `copy /b *.part_* leblanc-jasmine-voice-v4.1-official-laugh.fantome`
+  · Mac/Linux: `cat *.part_* > leblanc-jasmine-voice-v4.1-official-laugh.fantome`
+  (joined file MD5: `0acf99c0c5b388ae772b400ddd1a9070`).
+  Previous builds:
+  [leblanc-jasmine-voice-v6-rosetta.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v6-rosetta.fantome)
+  (v6 "Rosetta", 483 lines voiced 1:1 from her archive recordings) ·
   [leblanc-jasmine-voice-v5-final.fantome](jasmine-fall-suspended/leblanc-jasmine-voice-v5-final.fantome)
   (v5, synthesized; core set voiced, champion-interaction lines silent).
