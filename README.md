@@ -50,6 +50,7 @@ broken.
 | [Chaos Marauder Project — Mordekaiser](19-mordekaiser) | skin v0.1.0 |
 | [Ravaged Onryo — Akali](20-akali-onryo) | skin — full-body irezumi dragon, Blood Moon base · v3: twin-tail composition rising from the shins, coils hand-merged at the waist, dragon head on the chest |
 | [Lucy Kushinada — Samira](lucy-kushinada-samira) | skin v0.1.0 (PsyOps base: model, loading screen, profile circle + square, particles, animations) · voice v1.0.0 — all 162 lines replaced, Lucy on an op in Night City, written from scratch (no Samira lines) · icons on [MEGA](https://mega.nz/file/KhwzzQzT#0gxBC3eXWBP25K0M54yWRQwlvP3bD9QpW-Z-aXgzs38) |
+| [Talia Yang — Akali](talia-yang-akali) | voice v1.0.0 — True Damage (skin103) base, all 165 lines replaced, Talia cloned from the Edgerunners S2 English dub; pairs with the Talia model release |
 
 ◆ = hosted in the MEGA archive (GitHub file-size limits), linked from the
 mod's Patreon post.
