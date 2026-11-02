@@ -14,8 +14,12 @@ THE WHOLE MISSION:
    Plain clothes, thrift-store register — no cowboy costume, no duster, no
    black leather. The corruption is NOT this step (see out of scope).
 2. THE GUN — this is the prototype deliverable, gate everything on it.
-   Locke's Ritual Nails become gunshots, so he needs a handgun (revolver,
-   High Noon register) that sits correctly in his hand through his animation
+   Locke's Ritual Nails become gunshots, so he needs Ash's handgun: a
+   Smith & Wesson Model 27 — a modern .357 Magnum revolver with a CUT-DOWN
+   (shortened) barrel and white tape wrapped around the grip. That tape is
+   a signature detail, keep it. NOT a western cowboy piece: no long barrel,
+   no Single Action Army silhouette — modern NYC detective-frame gun.
+   It must sit correctly in his hand through his animation
    set: idle, run, the Q ready/throw motion (which must now read as firing),
    the E blink and dash-through attack, and the empowered two-handed stab.
    Report on the gun FIRST: in hand, aligned, no clipping through the palm,
