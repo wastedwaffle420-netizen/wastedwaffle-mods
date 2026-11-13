@@ -27,5 +27,5 @@ what you picked.
 
 Windows. Unzip, run Inkbelly-Auto.exe, no install.
 
-Download: Inkbelly-Auto-v43.zip (in this folder).
+Download: the four part files (Inkbelly-Auto-v43.zip.001 through .004) and JOIN-INKBELLY.bat, all in this folder. Put them in one folder together, double-click the bat, and it rebuilds the full zip — or just open the .001 file in 7-Zip. Then unzip and run Inkbelly-Auto.exe.
 
