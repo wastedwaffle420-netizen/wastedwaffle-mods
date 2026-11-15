@@ -1,5 +1,7 @@
 Inkbelly — a Violet pet feeder
 
+![Inkbelly v54 launching and feeding](inkbelly-v54-launch-v1.gif)
+
 I made a desktop pet. The pet is Violet (Deadlock), the food is
 butterflies, and the score is kept in her body: a full gut tract
 that fills as she eats. Stomach, bowel, collector, compactor, a
