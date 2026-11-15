@@ -25,7 +25,11 @@ There's a size picker when it starts — down to a tiny 368×310
 window meant to sit in a corner while you play — and it remembers
 what you picked.
 
+Final build (v54): there's a character select now. Violet is
+still the default, and there are Jasmine and Yamato feeder
+variants with their own art. This is the last true Inkbelly —
+the finished thing, not another step on the way to it.
+
 Windows. Unzip, run Inkbelly-Auto.exe, no install.
 
-Download: the four part files (Inkbelly-Auto-v45.zip.001 through .004) and JOIN-INKBELLY.bat, all in this folder. Put them in one folder together, double-click the bat, and it rebuilds the full zip — or just open the .001 file in 7-Zip. Then unzip and run Inkbelly-Auto.exe.
-
+Download: the eight part files (Inkbelly-Auto-v54.zip.001 through .008) and JOIN-INKBELLY.bat, all in this folder. Put them in one folder together, double-click the bat, and it rebuilds the full zip — or just open the .001 file in 7-Zip. Then unzip and run Inkbelly-Auto.exe.
