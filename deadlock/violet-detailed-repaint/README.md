@@ -1,22 +1,18 @@
 # Violet — Detailed Skin Repaint
 
-**Credit where it is due:** the model is **Froggone's** [Nude Violet](https://gamebanana.com/mods/728533) for Deadlock. He did the modeling work that took her clothes off — this repaint exists because his mod does. Go support [his page](https://gamebanana.com/members/5317755). This release is a texture repaint of his barefoot version, shared with full credit to him.
+**Model by Froggone** — built on his "Nude Violet" (GameBanana mod 728533). The model is entirely his work; this is a repaint of it.
 
-## What this is
+## v2 — the Super Cute update: peach & jasmine
 
-A full hand-painted skin detail pass over Froggone's barefoot Nude Violet. Every other Violet mod makes her bigger or leaves her mannequin-smooth — this one keeps her exactly as thin as she is and gives her actual *skin*:
-
-- **Full leg repaint:** freckles, moles, skin texture variation, detailed feet (bones, veins, sinew — never doll feet)
-- **Full torso repaint:** a neat front seam with prickles, a mound wart, freckles and moles placed one by one, nothing mirrored
-- **A back detail found the hard way:** a UV seam hunt, a marker expedition, and twenty versions of iteration until the crease read right in game — visible when she runs, without taking over her whole butt
-- **Two small cheek details** flanking the crack, sized and placed by in-game testing until both sides matched
-
-She reads as a person now, not a mannequin. That was the whole point and it took all day. Worth it.
+- Warm peach skin pass over the whole body: stippled blush, beauty marks, soft warmth, and her paint-bender hands
+- Her apron is covered in enamel pins now — jasmine, a fox, stars, a tiny bottle — and the orb she carries is a squishie plush with a little face and a gold ring
+- Bottle-blue lacquer inkpot with the brass and the eye tag kept
+- Warm wood brush with a tiny plushie charm hanging off the blue wrap
+- Rose lips and a soft flush on her face
+- The sketchbook keeps its carved green cover. It suited her.
 
 ## Install
 
-1. Put `pak122_dir.vpk` in `Deadlock/game/citadel/addons`
-2. If you have Froggone's original Nude Violet pak installed, remove it — this pak contains the full mod with the repaint applied, and they should not both be in addons
-3. Deadlock Mod Manager (or a `gameinfo.gi` with the addons search path) handles the rest, same as any Deadlock mod
+Download **Violet-Detailed-Repaint-v2.zip**, unzip it, and drop **pak136_dir.vpk** into your Deadlock addons folder (`game/citadel/addons`). Remove any older Violet pak first — this one replaces it completely: model, skin, and props in a single pak.
 
-Requires Deadlock. That's it.
+Enjoy!
