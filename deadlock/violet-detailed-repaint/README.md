@@ -1,18 +1,17 @@
 # Violet — Detailed Skin Repaint
 
-**Model by Froggone** — built on his "Nude Violet" (GameBanana mod 728533). The model is entirely his work; this is a repaint of it.
+**Model by Froggone** — built on his "Nude Violet" (GameBanana mod 728533). The model is entirely his work; the skin is ours.
 
-## v2 — the Super Cute update: peach & jasmine
+## v3 — the Hyper-Real update
 
-- Warm peach skin pass over the whole body: stippled blush, beauty marks, soft warmth, and her paint-bender hands
-- Her apron is covered in enamel pins now — jasmine, a fox, stars, a tiny bottle — and the orb she carries is a squishie plush with a little face and a gold ring
-- Bottle-blue lacquer inkpot with the brass and the eye tag kept
-- Warm wood brush with a tiny plushie charm hanging off the blue wrap
-- Rose lips and a soft flush on her face
-- The sketchbook keeps its carved green cover. It suited her.
+- Face and hair fully rematerialed: 4K skin with pore-level detail, real roughness and occlusion maps, strand-detailed hair. She reads as a person, not a doll.
+- Full-body skin retouch: warm peach skin, stippled blush, beauty marks, freckles placed on purpose and mirrored nowhere, ashy knees and elbows, paint-stained hands.
+- The props are OFF in this version — apron, sketchbook, and brush removed on purpose. The skin is the outfit.
+- Pairs with the Jasmine voice pack below: one character, skin and voice together.
 
 ## Install
 
-Download **Violet-Detailed-Repaint-v2.zip**, unzip it, and drop **pak136_dir.vpk** into your Deadlock addons folder (`game/citadel/addons`). Remove any older Violet pak first — this one replaces it completely: model, skin, and props in a single pak.
+1. Download the v3 pak from the **Releases** page (the big .vpk attached to v3) and drop it into your Deadlock addons folder (`game/citadel/addons`) or drag it into your mod manager. Remove any older Violet pak first — this replaces v2 completely.
+2. Voice: download **Violet-Jasmine-Voice-v1.zip** from this folder, unzip it, and add the voice pak the same way. The manager will say the two paks conflict — they don't (one is model and skin, the other is sound). Enable both.
 
 Enjoy!
