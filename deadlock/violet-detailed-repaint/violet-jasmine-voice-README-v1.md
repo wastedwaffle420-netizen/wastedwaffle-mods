@@ -1,26 +1,25 @@
-# Violet — Jasmine Voice Pack v1
+# Violet — Detailed Repaint v2 + Jasmine Voice
 
-Violet's own voice, cloned from her game lines and re-performed speaking
-full Jasmine register across 254 lines: select, unselect, pre-game, all
-four abilities, kills, killstreaks, barks, item lines, shop reminders,
-pain and death. Her timbre, her mouth — lad, lass, baka, uwu birdsong
-all the way through. It sounds like her. She just talks like trouble now.
+Two files, one Violet:
 
-Pairs with the Detailed Repaint v2 model in this folder.
+- **Violet-Detailed-Repaint-v2.zip** — the model (Froggone base, the
+  detailed repaint: peach and jasmine tech, full-send detail work).
+- **Violet-Jasmine-Voice-v1.zip** — the voice: Violet's own cloned timbre
+  re-performing 254 of her lines in full Jasmine register. Select,
+  unselect, abilities, kills, killstreaks, barks, items, reminders,
+  pain and death. Her voice, her mouth — lad, lass, baka, uwu birdsong
+  all the way through.
 
 ## Install
 
-1. Download `Violet-Detailed-Repaint-v2.zip` (the model) and
-   `Violet-Jasmine-Voice-v1.zip` (the voice) from this folder, plus
-   `install-violet-voice.bat`.
-2. Unzip both zips so `pak136_dir.vpk` and
-   `violet-jasmine-voice-v1_dir.vpk` sit next to the bat.
-3. Run the bat. It installs the model first, then the voice, at the next
-   free pak numbers — and offers to remove the rejected remake pak if
-   it's still in your addons.
+Drag both into your mod manager. That easy.
 
-Mod manager instead? Import the two vpks in the same order: model, then
-voice.
+**They will conflict. Enable them both.**
+
+The manager flags them because both mods are "for Violet" — but the
+model pak only touches models and materials, and the voice pak only
+touches her sound files. They don't overwrite a single file between
+them, so both on is the correct setup, not a problem.
 
 Subtitles still show her stock lines — captions live in a different
 file. The audio is all new.
